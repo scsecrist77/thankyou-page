@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thank You</title>
+    <meta http-equiv="refresh" content="5;url=https://apps.powerapps.com/play/your-app-id">
+</head>
+<body>
+    <h1>Thank you for completing the form!</h1>
+    <p>You will be redirected back to the app in a few seconds. If not, click <a href="https://apps.powerapps.com/play/e/default-b699068d-c14b-454b-a0bc-10918cf075d3/a/612fab52-fc96-4ffd-8268-8e39025a36f4?tenantId=b699068d-c14b-454b-a0bc-10918cf075d3&sourcetime=1739233732831
+</html>
